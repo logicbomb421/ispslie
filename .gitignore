@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+*.graph
+*.tar.gz
+*.pdf
+!**/.gitkeep
+ignore*
+**/.DS_Store
+**/desktop.ini
+*.egg-info
+.vscode
+*.log
+.venv
+build
