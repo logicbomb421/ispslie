@@ -1,7 +1,5 @@
 # ISPs Lie!
 
-<!-- Track the speed you get in reality to compare against what you pay for! -->
-
 A simple continuous speedtest utility to track up/download speeds from your ISP.
 
 ## Dependencies
